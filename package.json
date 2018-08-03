@@ -8,7 +8,8 @@
     "node": "10.6.0"
   },
   "scripts": {
-    "start": "next"
+    "start": "next",
+    "dev": "node server.js"
   },
   "dependencies": {
     "next": "^6.1.1",
